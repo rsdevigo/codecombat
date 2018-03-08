@@ -32,8 +32,8 @@ Thumbs.db
 *.iml
 
 # NPM packages folder.
-node_modules/
-bower_components/
+# node_modules/
+# bower_components/
 
 # Vagrant
 .vagrant/
